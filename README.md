@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1>Leonardo de Araujo Alves</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardodeAraujoAlves&show_icons=true&theme=tokyonight)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardodeAraujoAlves&layout=compact&langs_count=7&theme=tokyonight"/>
