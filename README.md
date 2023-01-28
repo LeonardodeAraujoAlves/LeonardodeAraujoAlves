@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Leonardo de Araujo Alves</h1>
-<h2>Estudante de ciência da computação</h2>
+<h2>Estudante de ciência da computação 5/8</h2>
 <br>
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardodeAraujoAlves&show_icons=true&theme=tokyonight)--->
 
