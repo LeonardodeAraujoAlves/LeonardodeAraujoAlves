@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <h1>Leonardo de Araujo Alves</h1>
 <h2>Estudante de ciência da computação 5/8</h2>
 <br>
-<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardodeAraujoAlves&show_icons=true&theme=tokyonight)--->
 
+<div align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardodeAraujoAlves&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardodearaujoalves&show_icons=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div>
 <br>
 
 <div style="display: inline_block"><br>
